@@ -1,5 +1,6 @@
 # cadastro de despesas
 Projeto desenvolvido em JavaScript para controle de despesas
 
-![gif](https://user-images.githubusercontent.com/43252661/70476586-c84b4400-1ab5-11ea-8775-4a2fcb145b6d.gif)
 
+
+![1575928561 (4)](https://user-images.githubusercontent.com/43252661/70476733-1a8c6500-1ab6-11ea-9b4a-d5cb399684db.gif)
